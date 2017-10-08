@@ -1,5 +1,6 @@
 # Neo
-This is the code of Distribution assignment as  I understood
+This is the code of Distribution assignment as  I understood from this
+`https://challenge.distribusion.com/the_one/red_pill`
 ## Installation
 
 And then execute:
